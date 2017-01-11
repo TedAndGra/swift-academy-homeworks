@@ -1,0 +1,127 @@
+@media only screen and (max-width: 991px) {
+    .main-heading {
+        font-size: 2rem;
+        max-width: 100%;
+    }
+
+    h4 {
+        font-size: 1rem;
+        padding-left: 40px;
+    }
+
+    .first-column {
+        margin: 10px;
+    }
+
+    .thirth-column {
+        margin-right: 40px;
+    }
+
+}
+
+@media only screen and (max-width: 767px) {
+
+    .main-heading, .order-phone {
+        font-size: 1.5rem;
+        max-width: 100%;
+    }
+
+    .conect {
+        max-width: 100%;
+    }
+
+    .carousel-caption {
+        font-size: 1.5rem;
+        max-width: 100%;
+    }
+
+    /*.navbar{*/
+    /*font-size: 1rem;*/
+    /*max-width: 100%;*/
+    /*}*/
+    .footer {
+        font-size: 1rem;
+    }
+
+    h4 {
+        font-size: 1rem;
+        padding-left: 10px;
+    }
+
+    .carousel {
+        margin-top: 65px;
+    }
+
+    .nav-links {
+        margin-top: 10px;
+    }
+
+    .main-page {
+        max-width: 100%;
+    }
+
+    .carousel-caption {
+        font-size: 15px;
+    }
+
+    .language {
+        padding-bottom: 15px;
+    }
+
+    h4 {
+        padding-left: 40px;
+    }
+}
+
+@media only screen and (max-width: 575px) {
+
+    .conect {
+        display: none;
+    }
+
+    .navbar {
+        max-width: 100%;
+    }
+
+    /*.main-page{*/
+    /*max-width: 100%;*/
+    /*}*/
+    li.nav {
+        display: block;
+        width: 450px;
+        max-width: 100%;
+        opacity: 0.9;
+
+    }
+    li.nav:hover,li.nav-other:hover{
+        color: black;
+        background-color: darkred;
+        text-decoration: none;
+        width:450px;
+        max-width:100%;
+
+
+    }
+    .nav-other:hover{
+margin-bottom: 20px;
+    }
+
+    footer {
+        color: white;
+    }
+
+    footer a {
+        color: black;
+        font-weight: bold;
+    }
+
+    .nav-pizza {
+        margin-top: 30px;
+    }
+    .main-container{
+        padding-right: 70px;
+    }
+    .phone{
+        padding-left: 0;
+    }
+}
