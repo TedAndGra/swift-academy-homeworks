@@ -3,6 +3,10 @@
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
 }
+#wrapper{
+    overflow: hidden;
+    max-width: 100%;
+}
 
 .pizza-container {
     width: 100%;
@@ -143,6 +147,19 @@ body {
      border: 5px dashed black;
      border-radius: 100%;
  }
+
+@media only screen and (max-width: 910px){
+
+div{
+    max-width: 100%;
+}
+.products{
+    font-size: 1.1rem;
+    max-width: 100%;
+}
+
+}
+
 
 
 

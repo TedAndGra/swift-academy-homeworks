@@ -20,7 +20,7 @@
     <favorites_list name="project_pizza_01.01.2017" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5969517">
+    <splitter split-orientation="horizontal" split-proportion="0.5429787">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="background.jpg" pinned="false" current-in-tab="false">
@@ -30,81 +30,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="459">
-                  <caret line="27" column="59" selection-start-line="27" selection-start-column="59" selection-end-line="27" selection-end-column="59" />
-                  <folding>
-                    <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#a#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="script-native.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/scripts/script-native.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="51">
-                  <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-                  <folding>
-                    <marker date="1483869306332" expanded="true" signature="582:613" ph="..." />
-                    <marker date="1483869306332" expanded="true" signature="582:644" ph="..." />
-                    <marker date="1483869306332" expanded="true" signature="582:685" ph="..." />
-                    <marker date="1483869306332" expanded="true" signature="582:697" ph="..." />
-                    <marker date="1483869306332" expanded="true" signature="582:725" ph="..." />
-                    <marker date="1483869306332" expanded="true" signature="582:753" ph="..." />
-                    <marker date="1483869306332" expanded="true" signature="582:822" ph="..." />
-                    <marker date="1483869306332" expanded="true" signature="582:834" ph="..." />
-                    <marker date="1483869306332" expanded="true" signature="582:862" ph="..." />
-                    <marker date="1483869306332" expanded="true" signature="582:892" ph="..." />
-                    <marker date="1483869306332" expanded="true" signature="582:982" ph="..." />
-                    <marker date="1483869306332" expanded="true" signature="582:1069" ph="..." />
-                    <marker date="1483869306332" expanded="true" signature="582:1146" ph="..." />
-                    <marker date="1483869306332" expanded="true" signature="582:1149" ph="..." />
-                    <marker date="1483869306332" expanded="true" signature="582:1224" ph="..." />
-                    <marker date="1483869306332" expanded="true" signature="582:1231" ph="..." />
-                    <marker date="1483869306332" expanded="true" signature="582:1239" ph="..." />
-                    <marker date="1483869306332" expanded="true" signature="582:1247" ph="..." />
-                    <marker date="1483869306332" expanded="true" signature="582:1255" ph="..." />
-                    <marker date="1483869306332" expanded="true" signature="582:1264" ph="..." />
-                    <marker date="1483869306332" expanded="true" signature="614:644" ph="..." />
-                    <marker date="1483869306332" expanded="true" signature="645:685" ph="..." />
-                    <marker date="1483869306332" expanded="true" signature="726:753" ph="..." />
-                    <marker date="1483869306332" expanded="true" signature="754:822" ph="..." />
-                    <marker date="1483869306332" expanded="true" signature="863:892" ph="..." />
-                    <marker date="1483869306332" expanded="true" signature="893:982" ph="..." />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="pizza.json" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/scripts/pizza.json">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="374">
-                  <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file leaf-file-name="templates.css" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css/templates.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="286">
-                  <caret line="140" column="2" selection-start-line="140" selection-start-column="2" selection-end-line="140" selection-end-column="2" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="style-tablet.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/css/style-tablet.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="442">
-                  <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+                <state relative-caret-position="2088">
+                  <caret line="162" column="0" selection-start-line="162" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -120,13 +50,36 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="pizza.html" pinned="false" current-in-tab="false">
+          <file leaf-file-name="pizza.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/templates/pizza.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="419">
-                  <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+                <state relative-caret-position="294">
+                  <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
                   <folding>
                     <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="style-tablet.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/css/style-tablet.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="114">
+                  <caret line="206" column="16" selection-start-line="206" selection-start-column="16" selection-end-line="206" selection-end-column="16" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="349">
+                  <caret line="27" column="119" selection-start-line="27" selection-start-column="119" selection-end-line="27" selection-end-column="119" />
+                  <folding>
+                    <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#a#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                   </folding>
                 </state>
               </provider>
@@ -136,11 +89,11 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="style-tablet.css" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/css/style-tablet.css">
+          <file leaf-file-name="templates.css" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/css/templates.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="188">
-                  <caret line="108" column="12" selection-start-line="108" selection-start-column="12" selection-end-line="108" selection-end-column="12" />
+                <state relative-caret-position="153">
+                  <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -149,8 +102,8 @@
           <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="264">
-                  <caret line="222" column="0" selection-start-line="222" selection-start-column="0" selection-end-line="226" selection-end-column="1" />
+                <state relative-caret-position="-3691">
+                  <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="21" />
                   <folding />
                 </state>
               </provider>
@@ -178,10 +131,10 @@
         <option value="$PROJECT_DIR$/scripts/script-native.js" />
         <option value="$PROJECT_DIR$/css/style-phone.css" />
         <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/css/style-tablet.css" />
-        <option value="$PROJECT_DIR$/templates/pizza.html" />
         <option value="$PROJECT_DIR$/css/templates.css" />
+        <option value="$PROJECT_DIR$/css/style-tablet.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/templates/pizza.html" />
       </list>
     </option>
   </component>
@@ -223,6 +176,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -299,7 +253,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -383,18 +336,19 @@
       <option name="presentableId" value="Default" />
       <updated>1483372069567</updated>
       <workItem from="1483372071438" duration="65186000" />
-      <workItem from="1484072402057" duration="21378000" />
+      <workItem from="1484072402057" duration="21973000" />
+      <workItem from="1484390616640" duration="15025000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86564000" />
+    <option name="totallyTimeSpent" value="102184000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13543192" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1398243" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -428,6 +382,107 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/images/background.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="59" selection-start-line="27" selection-start-column="59" selection-end-line="27" selection-end-column="59" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#a#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/script-native.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+          <folding>
+            <marker date="1483869306332" expanded="true" signature="582:613" ph="..." />
+            <marker date="1483869306332" expanded="true" signature="582:644" ph="..." />
+            <marker date="1483869306332" expanded="true" signature="582:685" ph="..." />
+            <marker date="1483869306332" expanded="true" signature="582:697" ph="..." />
+            <marker date="1483869306332" expanded="true" signature="582:725" ph="..." />
+            <marker date="1483869306332" expanded="true" signature="582:753" ph="..." />
+            <marker date="1483869306332" expanded="true" signature="582:822" ph="..." />
+            <marker date="1483869306332" expanded="true" signature="582:834" ph="..." />
+            <marker date="1483869306332" expanded="true" signature="582:862" ph="..." />
+            <marker date="1483869306332" expanded="true" signature="582:892" ph="..." />
+            <marker date="1483869306332" expanded="true" signature="582:982" ph="..." />
+            <marker date="1483869306332" expanded="true" signature="582:1069" ph="..." />
+            <marker date="1483869306332" expanded="true" signature="582:1146" ph="..." />
+            <marker date="1483869306332" expanded="true" signature="582:1149" ph="..." />
+            <marker date="1483869306332" expanded="true" signature="582:1224" ph="..." />
+            <marker date="1483869306332" expanded="true" signature="582:1231" ph="..." />
+            <marker date="1483869306332" expanded="true" signature="582:1239" ph="..." />
+            <marker date="1483869306332" expanded="true" signature="582:1247" ph="..." />
+            <marker date="1483869306332" expanded="true" signature="582:1255" ph="..." />
+            <marker date="1483869306332" expanded="true" signature="582:1264" ph="..." />
+            <marker date="1483869306332" expanded="true" signature="614:644" ph="..." />
+            <marker date="1483869306332" expanded="true" signature="645:685" ph="..." />
+            <marker date="1483869306332" expanded="true" signature="726:753" ph="..." />
+            <marker date="1483869306332" expanded="true" signature="754:822" ph="..." />
+            <marker date="1483869306332" expanded="true" signature="863:892" ph="..." />
+            <marker date="1483869306332" expanded="true" signature="893:982" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/pizza.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/templates.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2380">
+          <caret line="140" column="2" selection-start-line="140" selection-start-column="2" selection-end-line="140" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style-phone.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pizza.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style-tablet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3774">
+          <caret line="222" column="0" selection-start-line="222" selection-start-column="0" selection-end-line="226" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/images/background.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -594,45 +649,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="222" column="0" selection-start-line="222" selection-start-column="0" selection-end-line="226" selection-end-column="1" />
+        <state relative-caret-position="-3691">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="21" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/pizza.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style-tablet.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+        <state relative-caret-position="114">
+          <caret line="206" column="16" selection-start-line="206" selection-start-column="16" selection-end-line="206" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/templates.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="140" column="2" selection-start-line="140" selection-start-column="2" selection-end-line="140" selection-end-column="2" />
+        <state relative-caret-position="2088">
+          <caret line="162" column="0" selection-start-line="162" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="59" selection-start-line="27" selection-start-column="59" selection-end-line="27" selection-end-column="59" />
+        <state relative-caret-position="349">
+          <caret line="27" column="119" selection-start-line="27" selection-start-column="119" selection-end-line="27" selection-end-column="119" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#a#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pizza.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
