@@ -48,7 +48,7 @@
             <div class="col-xs-3 col-sm-4 conect">
 
                 <!-- <img class="language" src="flags/bg32.png" alt="bulgarian" /> -->
-                <i class="fa fa-shopping-bag" aria-hidden="true"> 25.50 лв</i>
+                <i class="fa fa-shopping-bag" aria-hidden="true"> <span class="priceAll">0</span> лв</i>
                 <div class="user-in">
                     <img class="language" src="../images/flags/small_en_flag.png" alt="english"/>
                     <button class="sign-in"><i class="fa fa-user-o" aria-hidden="true"></i>
@@ -58,15 +58,19 @@
 
             </div>
             <!--Навигация-->
-            <nav class="navbar">
+            <nav class="navbar navbar-default">
+                <div class="container">
+                    <div class="navbar-header">
                 <!-- Navbar content -->
-                <ul class="nav-box">
-                    <li class="nav"><a class="nav-links" href="#">Пици</a></li>
+                <ul class="nav-box col-md-12">
+                    <li class="nav nav-pizza"><a class="nav-links" href="#">Пици</a></li>
                     <li class="nav"><a class="nav-links" href="#">Салати</a></li>
                     <li class="nav"><a class="nav-links" href="#">Десерти</a></li>
                     <li class="nav"><a class="nav-links" href="#">Напитки</a></li>
-                    <li class="nav"><a class="nav-links" href="#">Други</a></li>
+                    <li class="nav nav-other"><a class="nav-links" href="#">Други</a></li>
                 </ul>
+                    </div>
+                </div>
             </nav>
         </div>
 
@@ -79,7 +83,7 @@
 <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
 
     <div class="carousel-inner">
-        <div class="carousel-item active">
+        <div class="carousel-item active bigPizza">
             <img src="../images/food/pizza/pizza2.jpg" alt="First slide" width="600" height="375">
             <div class="carousel-caption">
                 <h3>Избери Пица</h3>
@@ -95,7 +99,7 @@
 <!--Видове-->
 <div class="pizza-container">
     <div class="filters">
-        <div>
+        <div class="buttons">
             <!--<h4 class="filter-name">Филтрирай</h4>-->
             <button id="byPrice">Цена</button>
             <button id="byName">По име</button>
@@ -113,67 +117,26 @@
                 </div>
                 <div class="box-body">
                     <div class="col-sm-4">
-                        <img class="img-responsive" src="../images/food/pizza/pizza-tomato.jpg">
+                        <img class="img-responsive  main-page Json-Pictures" src="../images/food/pizza/pizza-tomato.jpg">
                     </div>
-                    <div class="col-sm-8">
+                    <div class="col-sm-8 tablet">
                         <ul class="pizza-items">
                             <li><h5 class="products"><span class="newLine">Продукти:</span> домати,сирене,<br>кашкавал,риган
                             </h5></li>
                             <li><h5 class="products"><span class="newLine">Алергени:</span> сирене,кашкавал</h5></li>
                             <li><h5 class="products"><span class="newLine">Тип:</span> вегетарианска</h5></li>
-                            <li><h5 class="products">Цена: <span class="price">3,90лв</span></h5></li>
+                            <li><h5 class="products">Цена: <span class="price">3,90лв <button  id="addToBag">Добави<i class="fa fa-shopping-bag" aria-hidden="true"></i></button></span></h5></li>
                         </ul>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-
+    <!--<button value="200">200</button>-->
+    <!--<button value="300">300</button>-->
+    <div class="total"></div>
 </div>
 
-<!--<footer class="footer">-->
-<!--<div class="container ">-->
-<!--<div class="row">-->
-<!--<div class="hidden-xs">-->
-<!--<div class="col-xs-2 col-md-2">-->
-<!--<h6>Меню</h6>-->
-<!--<ul>-->
-<!--<li><a href="#">Пици</a> </li>-->
-<!--<li><a href="#">Салати</a> </li>-->
-<!--<li><a href="#">Десерти</a> </li>-->
-<!--<li><a href="#">Напитки</a> </li>-->
-<!--<li><a href="#">Други</a> </li>-->
-<!--</ul>-->
-<!--</div>-->
-<!--<div class="col-xs-2 col-md-2">-->
-<!--<h6>За нас</h6>-->
-<!--<ul>-->
-<!--<li><a href="#">Къде да ни намерите?</a> </li>-->
-<!--<li><a href="#">Кариера</a> </li>-->
-<!--<li><a href="#">Тържества и резервации</a> </li>-->
-<!--</ul>-->
-<!--</div>-->
-<!--<div class="col-xs-2 col-md-2">-->
-<!--<h6>Моя профил</h6>-->
-<!--<ul>-->
-<!--<li><a href="#">Регистрация</a> </li>-->
-<!--<li><a href="#">Вход</a> </li>-->
-<!--</ul>-->
-<!--</div>-->
-<!--<div class="col-xs-2 col-md-2">-->
-<!--<h6>Свържете се с нас</h6>-->
-<!--<ul>-->
-<!--<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"> Facebook </i></a> </li>-->
-<!--<li><a href="#"><i class="fa fa-twitter" aria-hidden="true"> Twitter </i></a> </li>-->
-<!--<li><a href="#"><i class="fa fa-google" aria-hidden="true"> Google + </i></a> </li>-->
-<!--</ul>-->
-<!--</div>-->
-
-<!--</div>-->
-<!--</div>-->
-<!--</div>-->
-
-<!--</footer>-->
 
 <!--cdn files-->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"

@@ -317,4 +317,20 @@ h4{
     /*box-sizing: border-box;*/
     /*!*height:100vh;*!*/
 }
+button{
+    font-size: 18px;
+}
 
+button:hover{
+    background-color: lightskyblue;
+}
+
+.nav-links:visited{
+
+    color: white;
+    text-decoration: none;
+
+}
+.nav-links:hover{
+    color: black;
+}

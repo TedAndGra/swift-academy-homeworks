@@ -25,6 +25,7 @@ $(document).ready(function () {
 });
 
 
+
 var template_Pizza = '<div class="pizza">\
     <div class="box box-info">\
     <div class="box-heading">\
@@ -39,7 +40,8 @@ var template_Pizza = '<div class="pizza">\
     <li><h5 class="products"><span class="newLine">Продукти:</span> {products}</h5></li>\
 <li><h5 class="products"><span class="newLine">Алергени:</span> {allergens}</h5></li>\
 <li><h5 class="products"><span class="newLine">Тип: </span>{type}</h5></li>\
- <li><h5 class="products">Цена: <span class="price">{price}</span></h5></li>\
+ <li><h5 class="products">Цена: <span class="price">{price}<button   id="addToBag">Добави \
+ <i class="fa fa-shopping-bag" aria-hidden="true"></i></button></span></h5></li>\
 </ul>\
 </div>\
 </div>\
@@ -85,4 +87,13 @@ function sortByField(fieldName) {
         }
     });
     render(sorted);
+
 }
+
+//това за сега не работи-за пълнене на количката с артикули
+
+var theTotal = 0;
+$('addToBag').click(function(){
+    theTotal = Number(theTotal) + Number($(this).val());
+    $('.priceAll').text(+theTotal);
+});
